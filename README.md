@@ -1,6 +1,10 @@
-<h1 align="center">Hi there, I'm Galya</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Data analyst</h3>
+### Hi there 👋, my name is Galya
+#### I am data analyst
+🛒 Transforming Retail Data into Business Insights
+
+Skills: SQL / python / excel / power BI / datalens
+
+
 
 <!--
 **ZakharovaGalina/ZakharovaGalina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
