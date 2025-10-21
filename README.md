@@ -1,9 +1,9 @@
 ## Hi there 👋
-<picture>
- <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
- <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
- <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
-</picture>
+
+<h1 align="center">Hi there, I'm Galya</a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center">Data analyst</h3>
+
 <!--
 **ZakharovaGalina/ZakharovaGalina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
